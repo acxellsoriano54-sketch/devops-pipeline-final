@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": ".github",
+			"path": "../.github"
+		},
+		{
+			"name": ".githubworkflows",
+			"path": "../.githubworkflows"
+		},
+		{
+			"name": "backend",
+			"path": "../backend"
+		},
+		{
+			"name": "backendsrc",
+			"path": "../backendsrc"
+		},
+		{
+			"name": "backendtests",
+			"path": "."
+		},
+		{
+			"name": "frontend",
+			"path": "../frontend"
+		},
+		{
+			"name": "infra",
+			"path": "../infra"
+		}
+	]
+}
